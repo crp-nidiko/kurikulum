@@ -18,11 +18,23 @@ Učna pot poveže uporabo digitalnih komunikacijskih kanalov s presojo varnosti 
 
 Odrasli začetniki z osnovnim znanjem upravljanja naprave in spletnega brskalnika, ki želijo sodelovati pri vsakodnevnih spletnih dejavnostih.
 
-## Cilj učne poti
+## Ključne besede
 
-Udeleženec samostojno komunicira po e-pošti in sodeluje na spletnem sestanku ter pri tem prepozna sumljive zahteve, varuje svoje podatke in uporabi osnovne načine zaščite računa.
+- Digitalna komunikacija
+- digitalno sodelovanje
+- elektronska pošta
+- spletni sestanki
+- varna raba spleta
+- kibernetska varnost
+- varovanje osebnih podatkov
+- digitalna pismenost
+- spletne prevare
+- zaščita uporabniških računov.
 
 ## Seznam modulov
 
 1. [900-MOD-PRIMER-digitalna-komunikacija – PRIMER-Digitalna komunikacija](../MODULI/900-MOD-PRIMER-digitalna-komunikacija.md)
+   - **Predpogoj:** brez
+
 2. [901-MOD-PRIMER-varna-komunikacija – PRIMER-Varna komunikacija](../MODULI/901-MOD-PRIMER-varna-komunikacija.md)
+   - **Predpogoj:** `900-MOD-PRIMER-digitalna-komunikacija`

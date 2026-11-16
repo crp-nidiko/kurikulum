@@ -10,13 +10,6 @@
 
 PRIMER-Varna komunikacija
 
-## Vsebinski sklop
-
-- **ID:** PRIMER-SK02
-- **Naziv:** PRIMER-Varnost v digitalnem okolju
-
-ID in naziv sklopa sta ilustrativna; ne predstavljata uradnega vsebinskega sklopa projekta.
-
 ## Opis
 
 Modul povezuje vsakodnevno elektronsko sporazumevanje s presojo tveganj pri spletnih stikih. Podrobnosti in učni izidi so opisani v povezanih učnih enotah. Enota o e-pošti je ista izvorna enota kot v modulu digitalne komunikacije in je tu ponovno uporabljena s povezavo.
