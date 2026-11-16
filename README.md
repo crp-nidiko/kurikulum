@@ -14,12 +14,6 @@ Učne enote sestavljajo module, moduli pa učne poti. Ista učna enota lahko nas
 - [Moduli](MODULI.md)
 - [Učne poti](UCNE_POTI.md)
 
-Dejanski katalogi so trenutno prazni. Predloge za vnos so v datotekah [UE/_PREDLOGA.md](UE/_PREDLOGA.md), [MODULI/_PREDLOGA.md](MODULI/_PREDLOGA.md) in [UCNE_POTI/_PREDLOGA.md](UCNE_POTI/_PREDLOGA.md).
-
-## Primeri
-
-Katalogi vsebujejo jasno ločene primere s predpono `PRIMER-` in številkami iz razpona `900–999`. **Primeri niso del uradnega kurikuluma NIDiKo.** Za dejanske gradnike je rezerviran razpon `001–899`.
-
 ## Projekt
 
 - [Projektna spletna stran NIDiKo](https://crp-nidiko.github.io/)
