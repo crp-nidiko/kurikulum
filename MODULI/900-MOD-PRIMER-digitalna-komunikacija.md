@@ -10,13 +10,6 @@
 
 PRIMER-Digitalna komunikacija
 
-## Vsebinski sklop
-
-- **ID:** PRIMER-SK01
-- **Naziv:** PRIMER-Sporazumevanje in sodelovanje
-
-ID in naziv sklopa sta ilustrativna; ne predstavljata uradnega vsebinskega sklopa projekta.
-
 ## Opis
 
 Modul povezuje pisno sporazumevanje in sodelovanje na spletnih srečanjih v smiselno celoto za vsakodnevne digitalne stike. Podrobnosti in učni izidi so opisani v povezanih učnih enotah.
@@ -31,4 +24,7 @@ Modul povezuje pisno sporazumevanje in sodelovanje na spletnih srečanjih v smis
 ## Seznam učnih enot
 
 1. [900-UE-PRIMER-osnove-e-poste – PRIMER-Osnove e-pošte](../UE/900-UE-PRIMER-osnove-e-poste.md)
+   - **Predpogoji:** brez
+
 2. [902-UE-PRIMER-uporaba-spletnih-sestankov – PRIMER-Uporaba spletnih sestankov](../UE/902-UE-PRIMER-uporaba-spletnih-sestankov.md)
+   - **Predpogoji:** brez

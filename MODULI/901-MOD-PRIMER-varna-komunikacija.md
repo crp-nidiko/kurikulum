@@ -24,4 +24,7 @@ Modul povezuje vsakodnevno elektronsko sporazumevanje s presojo tveganj pri sple
 ## Seznam učnih enot
 
 1. [900-UE-PRIMER-osnove-e-poste – PRIMER-Osnove e-pošte](../UE/900-UE-PRIMER-osnove-e-poste.md)
+   - **Predpogoji:** brez
+
 2. [901-UE-PRIMER-varna-raba-spleta – PRIMER-Varna raba spleta](../UE/901-UE-PRIMER-varna-raba-spleta.md)
+   - **Predpogoji:** brez
