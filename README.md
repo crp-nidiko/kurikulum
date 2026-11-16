@@ -6,7 +6,7 @@ V okviru raziskovalnega projekta NIDiKo nastaja prilagodljivi kurikulum neformal
 
 **Učna pot → Modul → Učna enota**
 
-Učne enote sestavljajo module, moduli pa učne poti. Ista učna enota lahko nastopa v več modulih in isti modul v več učnih poteh; vsak gradnik ima eno izvorno datoteko, drugi se nanjo sklicujejo s povezavo. Vsebinski sklopi tematsko razvrščajo module in niso učne poti.
+Učne enote sestavljajo module, moduli pa učne poti. Ista učna enota lahko nastopa v več modulih in isti modul v več učnih poteh; vsak gradnik ima eno izvorno datoteko, drugi se nanjo sklicujejo s povezavo.
 
 ## Katalogi
 
