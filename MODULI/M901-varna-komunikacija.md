@@ -16,10 +16,7 @@ Modul povezuje vsakodnevno elektronsko sporazumevanje s presojo tveganj pri sple
 
 ## Ključne besede
 
-- varna komunikacija
-- e-pošta
-- spletne prevare
-- osebni podatki
+varna komunikacija, e-pošta, spletne prevare, osebni podatki
 
 ## Seznam učnih enot
 

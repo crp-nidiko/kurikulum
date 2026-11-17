@@ -2,7 +2,7 @@
 
 Predlogo kopirajte v novo datoteko in nadomestite navodila z vsebino. Pred vnosom preverite obstoječe datoteke v `MODULI/` in [indeks modulov](../MODULI.md): uporabite obstoječi modul, če že ustreza, sicer izberite prost identifikator. Obstoječe datoteke ne prepišite.
 
-Identifikator sestavljata predpona `M` in številka; opcijsko sledi kratek naziv z eno ali dvema besedama, ločen z vezajem: `MNNN` ali `MNNN-naziv`. Ime datoteke je identifikator s končnico `.md`, na primer `M001.md` ali `M001-digitalna-komunikacija.md`. Za dejanske gradnike uporabljajte številke `001–899`, za primere izključno `900–999`. Številko izberite prosto znotraj vrste gradnika; med različnimi vrstami se lahko ponovi. Številka mora biti enolična znotraj vrste gradnika tudi pri različnih kratkih nazivih.
+Identifikator sestavljajo predpona `M`, številka brez vodilnih ničel in kratek naziv z eno ali največ dvema ključnima besedama: `M1-naziv`. Ohranite izvorno številko modula iz Excela (`M1` → `M1-naprave`); pri uvozu uporabite identifikator in ime datoteke neposredno iz manifesta. Ime datoteke je identifikator s končnico `.md`, na primer `M1-naprave.md`. Za dejanske gradnike uporabljajte številke `1–899`; obstoječe demonstracijske primere s številkami `900–999` in njihovimi identifikatorji ohranite nespremenjene. Številka mora biti enolična znotraj vrste gradnika, med različnimi vrstami pa se lahko ponovi. Kratki del naj bo praviloma krajši od 20 znakov; polni naziv ostane nespremenjen.
 
 Kratek naziv pišite z malimi črkami brez šumnikov in s presledki, zamenjanimi z vezaji. Pri primerih se prikazani polni naziv začne s `PRIMER-`; ta oznaka ni del identifikatorja.
 
@@ -16,7 +16,7 @@ Preverite skladnost ID z imenom datoteke, zaporedje učnih enot, veljavnost pred
 
 ## ID modula
 
-Vnesite enoličen identifikator v obliki `MNNN` ali `MNNN-naziv`; kratek naziv z eno ali dvema besedama je neobvezen.
+Vnesite enoličen identifikator v obliki `M1-naziv`, brez vodilnih ničel in s kratkim nazivom z eno ali največ dvema ključnima besedama. Pri uvozu uporabite identifikator iz manifesta.
 
 ## Naziv modula
 
@@ -32,12 +32,12 @@ Vnesite ključne besede, namenjene lažjemu iskanju modula.
 
 ## Seznam učnih enot
 
-V urejenem seznamu navedite vsaj eno obstoječo učno enoto kot relativno povezavo v obliki `../UE/UINNN.md` ali `../UE/UINNN-naziv.md`; besedilo povezave naj bo »identifikator – naziv«.
+V urejenem seznamu navedite vsaj eno obstoječo učno enoto kot relativno povezavo v obliki `../UE/UE1-naziv.md`; besedilo povezave naj bo »identifikator – naziv«.
 
 Za vsako učno enoto določite tudi **predpogoje za vključitev v učno enoto**:
 
 - **Brez predpogojev:** vpišite `brez`.
-- **S predpogoji:** navedite enega ali več identifikatorjev učnih enot `UINNN` ali `UINNN-naziv`, ki jih mora udeleženec uspešno zaključiti pred vključitvijo v obravnavano učno enoto. Uporabite celoten identifikator obstoječe enote.
+- **S predpogoji:** navedite enega ali več identifikatorjev učnih enot `UE1-naziv`, ki jih mora udeleženec uspešno zaključiti pred vključitvijo v obravnavano učno enoto. Uporabite celoten identifikator obstoječe enote.
 
 Predpogoji so neobvezni.
 

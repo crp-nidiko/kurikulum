@@ -16,10 +16,7 @@ Modul povezuje pisno sporazumevanje in sodelovanje na spletnih srečanjih v smis
 
 ## Ključne besede
 
-- digitalna komunikacija
-- e-pošta
-- spletni sestanki
-- sodelovanje
+digitalna komunikacija, e-pošta, spletni sestanki, sodelovanje
 
 ## Seznam učnih enot
 

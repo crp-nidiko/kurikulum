@@ -2,13 +2,13 @@
 
 Predlogo kopirajte v novo datoteko in nadomestite navodila ter mesta za vnos z vsebino. Pred vnosom preverite obstoječe datoteke v `UE/` in [indeks učnih enot](../UCNE_ENOTE.md): uporabite obstoječo enoto, če že opisuje isto vsebino, sicer izberite prost identifikator. Obstoječe datoteke ne prepišite.
 
-Identifikator sestavljata predpona `UI` in številka; opcijsko sledi kratek naziv z eno ali dvema besedama, ločen z vezajem: `UINNN` ali `UINNN-naziv`. Ime datoteke je identifikator s končnico `.md`, na primer `UI001.md` ali `UI001-e-posta.md`. Za dejanske gradnike uporabljajte številke `001–899`, za primere izključno `900–999`. Številko izberite prosto znotraj vrste gradnika; med različnimi vrstami se lahko ponovi. Številka mora biti enolična znotraj vrste gradnika tudi pri različnih kratkih nazivih. Kratek naziv pišite z malimi črkami brez šumnikov in s presledki, zamenjanimi z vezaji. Pri primerih se prikazani polni naziv začne s `PRIMER-`; ta oznaka ni del identifikatorja. Na začetek vsakega primera dodajte opozorilo: **PRIMER – Ta dokument je namenjen samo ponazoritvi strukture in uporabe. Ni del uradnega kurikuluma NIDiKo.**
+Identifikator sestavljajo predpona `UE`, številka brez vodilnih ničel in kratek naziv z eno ali največ dvema ključnima besedama: `UE1-naziv`. Ohranite izvorno številko učne enote iz Excela (`UE1` → `UE1-racunalnik`); pri uvozu ohranite številko in kratek naziv iz manifesta ter uporabite predpono `UE`. Ime datoteke je identifikator s končnico `.md`, na primer `UE1-racunalnik.md`. Za dejanske gradnike uporabljajte številke `1–899`; obstoječe demonstracijske primere s številkami `900–999` in njihovimi identifikatorji `UI900-...` ohranite nespremenjene. Številka mora biti enolična znotraj vrste gradnika, med različnimi vrstami pa se lahko ponovi. Kratek naziv pišite z malimi črkami brez šumnikov in s presledki, zamenjanimi z vezaji; praviloma naj bo krajši od 20 znakov. Polni naziv ostane nespremenjen. Pri primerih se prikazani polni naziv začne s `PRIMER-`; ta oznaka ni del identifikatorja. Na začetek vsakega primera dodajte opozorilo: **PRIMER – Ta dokument je namenjen samo ponazoritvi strukture in uporabe. Ni del uradnega kurikuluma NIDiKo.**
 
 Po vnosu dodajte povezavo »identifikator – naziv« v ustrezni razdelek indeksa. Pri preimenovanju poiščite stari identifikator in pot v vseh datotekah Markdown, posodobite vse sklice in preverite, da relativne povezave kažejo na obstoječe datoteke. Preverite skladnost identifikatorja z imenom datoteke, vseh 13 polj in povezav izidov s kompetencami. Predloge ne vključujte v indeks.
 
 ## 1. ID UE
 
-Vnesite enoličen identifikator v obliki `UINNN` ali `UINNN-naziv`; kratek naziv z eno ali dvema besedama je neobvezen.
+Vnesite enoličen identifikator v obliki `UE1-naziv`, brez vodilnih ničel in s kratkim nazivom z eno ali največ dvema ključnima besedama. Pri uvozu ohranite številko in kratek naziv iz manifesta ter uporabite predpono `UE`.
 
 ## 2. Naziv UE
 

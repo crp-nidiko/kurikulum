@@ -1,0 +1,57 @@
+# Sistematična izbira ustreznih digitalnih orodij za delovne izzive [DRAFT]
+
+## 1. ID UE
+
+UE52-izbira-orodij
+
+## 2. Naziv UE
+
+Sistematična izbira ustreznih digitalnih orodij za delovne izzive
+
+## 3. Opis
+
+Opredelitev potrebe, primerjava in izbira digitalnih orodij glede na namen, stroške, varnost in združljivost ter preizkus orodja pred uvedbo.
+
+## 4. Ključne besede
+
+- [Dopolniti]
+
+## 5. Ciljna skupina
+
+[Dopolniti]
+
+## 6. Učni izidi
+
+- **I1:** [Dopolniti]
+- **I2:** [Dopolniti]
+
+## 7. Kompetence
+
+| Učni izid | Klasifikacija | Oznaka kompetence | Naziv kompetence | Raven |
+| --- | --- | --- | --- | --- |
+| [Dopolniti] | [Dopolniti] | [Dopolniti] | [Dopolniti] | [Dopolniti] |
+
+## 8. Metode poučevanja
+
+- [Dopolniti]
+
+## 9. Priporočen način izvedbe
+
+- **Lokacijska oblika:** [Dopolniti]
+- **Časovna oblika:** [Dopolniti]
+
+## 10. Potrebno predznanje
+
+[Dopolniti]
+
+## 11. Priporočeno trajanje
+
+[Dopolniti]
+
+## 12. Metode preverjanja znanja
+
+- [Dopolniti]
+
+## 13. Tip dokazila
+
+[Dopolniti]
