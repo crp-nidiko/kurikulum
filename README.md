@@ -1,12 +1,12 @@
 # NIDiKo – Prilagodljivi kurikulum digitalnih kompetenc
 
-V okviru raziskovalnega projekta NIDiKo nastaja prilagodljivi kurikulum neformalnega izobraževanja na področju digitalnih kompetenc. Repozitorij je namenjen opisovanju in povezovanju učnih enot, modulov in učnih poti v dokumentih Markdown, ki jih lahko pregledujete neposredno na GitHubu.
+V okviru raziskovalnega projekta NIDiKo nastaja prilagodljivi kurikulum neformalnega izobraževanja na področju digitalnih kompetenc. Repozitorij je namenjen opisovanju in povezovanju učnih enot, modulov in učnih poti v dokumentih Markdown.
 
 ## Struktura kurikuluma
 
-**Učna pot → Modul → Učna enota**
+**Učna pot → Gradnik (Modul → Učna enota) ali Učna enota**
 
-Učne enote sestavljajo module, moduli pa učne poti. Ista učna enota lahko nastopa v več modulih in isti modul v več učnih poteh; vsak gradnik ima eno izvorno datoteko, drugi se nanjo sklicujejo s povezavo.
+Učne enote sestavljajo module, moduli pa učne poti. Ista učna enota lahko nastopa v več modulih in isti modul v več učnih poteh; vsak gradnik ima eno izvorno datoteko, drugi se nanjo sklicujejo s povezavo. Izjemoma lahko v učni poti nastopa tudi posamezna učna enota.
 
 ## Katalogi
 

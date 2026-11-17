@@ -34,26 +34,19 @@ Opišite, komu je učna pot namenjena.
 
 Navedite ključne besede, namenjene lažjemu iskanju učne poti.
 
-## Seznam modulov
+## Seznam gradnikov
 
-V urejenem seznamu navedite vsaj en obstoječi modul kot relativno povezavo v obliki `../MODULI/NNN-MOD-naziv.md`; besedilo povezave naj bo »identifikator – naziv«.
+V urejenem seznamu navedite vsaj en obstoječi modul ali učno pot kot relativno povezavo v obliki `../MODULI/NNN-MOD-naziv.md`; besedilo povezave naj bo »identifikator – naziv«.
 
-Za vsak modul določite tudi **predpogoj za vključitev v modul**:
+Za vsak gradnik določite tudi **predpogoj za vključitev**:
 
 - **Brez predpogoja:** vpišite `brez`.
-- **S predpogojem:** navedite identifikator modula `NNN-MOD-naziv`, ki ga mora udeleženec uspešno zaključiti pred vključitvijo v ta modul.
+- **S predpogojem:** navedite identifikator gradnika `NNN-MOD-naziv`, ki ga mora udeleženec uspešno zaključiti pred vključitvijo v ta modul.
 
-Predpogoj je neobvezen. Posamezen modul ima lahko največ en neposredni predpogoj.
+Predpogoj je neobvezen. Posamezen modul ali učna enota ima lahko največ en neposredni predpogoj.
 
-Upoštevajte naslednja pravila:
+**Pazite, da ne vzpostavite krožnih odvisnosti!**
 
-- Predpogoj mora biti obstoječi modul.
-- Modul ne sme biti sam sebi predpogoj.
-- Če je predpogoj del iste učne poti, mora biti naveden pred odvisnim modulom.
-- Predpogoj je lahko tudi modul zunaj obravnavane učne poti; v tem primeru ga označite kot zunanji predpogoj.
-- Odvisnosti med moduli ne smejo biti krožne.
-- Vrstni red modulov določa priporočeno zaporedje izvedbe, predpogoji pa obvezne pogoje za vključitev v posamezni modul.
-- Isti izvorni modul lahko nastopa v več različnih učnih poteh.
 
 ### Primer zapisa
 

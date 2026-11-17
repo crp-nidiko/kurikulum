@@ -4,7 +4,7 @@
 
 ## ID učne poti
 
-900-UP-PRIMER-varno-digitalno-sodelovanje
+UP-900-PRIMER-varno-digitalno-sodelovanje
 
 ## Naziv učne poti
 
