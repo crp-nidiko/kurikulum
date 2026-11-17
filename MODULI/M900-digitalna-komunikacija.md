@@ -4,7 +4,7 @@
 
 ## ID modula
 
-900-MOD-PRIMER-digitalna-komunikacija
+M900-digitalna-komunikacija
 
 ## Naziv modula
 
@@ -23,8 +23,8 @@ Modul povezuje pisno sporazumevanje in sodelovanje na spletnih srečanjih v smis
 
 ## Seznam učnih enot
 
-1. [Osnove e-pošte](../UE/900-UE-PRIMER-osnove-e-poste.md)
+1. [Osnove e-pošte](../UE/UI900-e-posta.md)
    - **Predpogoji:** brez
 
-2. [Uporaba spletnih sestankov](../UE/902-UE-PRIMER-uporaba-spletnih-sestankov.md)
+2. [Uporaba spletnih sestankov](../UE/UI902-spletni-sestanki.md)
    - **Predpogoji:** brez

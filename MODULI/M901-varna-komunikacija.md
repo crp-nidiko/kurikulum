@@ -4,7 +4,7 @@
 
 ## ID modula
 
-901-MOD-PRIMER-varna-komunikacija
+M901-varna-komunikacija
 
 ## Naziv modula
 
@@ -23,8 +23,8 @@ Modul povezuje vsakodnevno elektronsko sporazumevanje s presojo tveganj pri sple
 
 ## Seznam učnih enot
 
-1. [Osnove e-pošte](../UE/900-UE-PRIMER-osnove-e-poste.md)
+1. [Osnove e-pošte](../UE/UI900-e-posta.md)
    - **Predpogoji:** brez
 
-2. [Varna raba spleta](../UE/901-UE-PRIMER-varna-raba-spleta.md)
+2. [Varna raba spleta](../UE/UI901-spletna-varnost.md)
    - **Predpogoji:** brez

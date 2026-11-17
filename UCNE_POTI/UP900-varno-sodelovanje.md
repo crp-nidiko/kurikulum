@@ -4,7 +4,7 @@
 
 ## ID učne poti
 
-UP-900-PRIMER-varno-digitalno-sodelovanje
+UP900-varno-sodelovanje
 
 ## Naziv učne poti
 
@@ -33,8 +33,8 @@ Odrasli začetniki z osnovnim znanjem upravljanja naprave in spletnega brskalnik
 
 ## Seznam modulov
 
-1. [Digitalna komunikacija](../MODULI/900-MOD-PRIMER-digitalna-komunikacija.md)
+1. [Digitalna komunikacija](../MODULI/M900-digitalna-komunikacija.md)
    - **Predpogoj:** brez
 
-2. [Varna komunikacija](../MODULI/901-MOD-PRIMER-varna-komunikacija.md)
-   - **Predpogoj:** `900-MOD-PRIMER-digitalna-komunikacija`
+2. [Varna komunikacija](../MODULI/M901-varna-komunikacija.md)
+   - **Predpogoj:** `M900-digitalna-komunikacija`

@@ -2,13 +2,13 @@
 
 Predlogo kopirajte v novo datoteko in nadomestite navodila ter mesta za vnos z vsebino. Pred vnosom preverite obstoječe datoteke v `UE/` in [indeks učnih enot](../UCNE_ENOTE.md): uporabite obstoječo enoto, če že opisuje isto vsebino, sicer izberite prost identifikator. Obstoječe datoteke ne prepišite.
 
-Identifikator in ime datoteke sta `NNN-UE-naziv` in `NNN-UE-naziv.md`. Za dejanske gradnike uporabljajte številke `001–899`, za primere izključno `900–999`. Številko izberite prosto znotraj vrste gradnika; med različnimi vrstami se lahko ponovi. Celoten identifikator mora biti enoličen. Del `naziv` pišite z malimi črkami brez šumnikov in s presledki, zamenjanimi z vezaji. Pri primerih je obvezna izjema velika predpona `PRIMER-` pred tem delom; tudi prikazani naziv se začne s `PRIMER-`. Na začetek vsakega primera dodajte opozorilo: **PRIMER – Ta dokument je namenjen samo ponazoritvi strukture in uporabe. Ni del uradnega kurikuluma NIDiKo.**
+Identifikator sestavljata predpona `UI` in številka; opcijsko sledi kratek naziv z eno ali dvema besedama, ločen z vezajem: `UINNN` ali `UINNN-naziv`. Ime datoteke je identifikator s končnico `.md`, na primer `UI001.md` ali `UI001-e-posta.md`. Za dejanske gradnike uporabljajte številke `001–899`, za primere izključno `900–999`. Številko izberite prosto znotraj vrste gradnika; med različnimi vrstami se lahko ponovi. Številka mora biti enolična znotraj vrste gradnika tudi pri različnih kratkih nazivih. Kratek naziv pišite z malimi črkami brez šumnikov in s presledki, zamenjanimi z vezaji. Pri primerih se prikazani polni naziv začne s `PRIMER-`; ta oznaka ni del identifikatorja. Na začetek vsakega primera dodajte opozorilo: **PRIMER – Ta dokument je namenjen samo ponazoritvi strukture in uporabe. Ni del uradnega kurikuluma NIDiKo.**
 
 Po vnosu dodajte povezavo »identifikator – naziv« v ustrezni razdelek indeksa. Pri preimenovanju poiščite stari identifikator in pot v vseh datotekah Markdown, posodobite vse sklice in preverite, da relativne povezave kažejo na obstoječe datoteke. Preverite skladnost identifikatorja z imenom datoteke, vseh 13 polj in povezav izidov s kompetencami. Predloge ne vključujte v indeks.
 
 ## 1. ID UE
 
-Vnesite enoličen identifikator v obliki `NNN-UE-naziv`.
+Vnesite enoličen identifikator v obliki `UINNN` ali `UINNN-naziv`; kratek naziv z eno ali dvema besedama je neobvezen.
 
 ## 2. Naziv UE
 

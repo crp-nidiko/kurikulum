@@ -7,5 +7,5 @@ Katalog modulov je trenutno prazen.
 
 **Spodnja primera sta namenjena  ponazoritvi strukture. Nista del uradnega kurikuluma NIDiKo.** 
 
-- [Digitalna komunikacija](MODULI/900-MOD-PRIMER-digitalna-komunikacija.md)
-- [Varna komunikacija](MODULI/901-MOD-PRIMER-varna-komunikacija.md)
+- [Digitalna komunikacija](MODULI/M900-digitalna-komunikacija.md)
+- [Varna komunikacija](MODULI/M901-varna-komunikacija.md)

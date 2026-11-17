@@ -4,7 +4,7 @@
 
 ## 1. ID UE
 
-901-UE-PRIMER-varna-raba-spleta
+UI901-spletna-varnost
 
 ## 2. Naziv UE
 

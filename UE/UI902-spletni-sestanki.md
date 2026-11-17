@@ -4,7 +4,7 @@
 
 ## 1. ID UE
 
-902-UE-PRIMER-uporaba-spletnih-sestankov
+UI902-spletni-sestanki
 
 ## 2. Naziv UE
 

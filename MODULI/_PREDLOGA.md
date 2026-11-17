@@ -2,9 +2,9 @@
 
 Predlogo kopirajte v novo datoteko in nadomestite navodila z vsebino. Pred vnosom preverite obstoječe datoteke v `MODULI/` in [indeks modulov](../MODULI.md): uporabite obstoječi modul, če že ustreza, sicer izberite prost identifikator. Obstoječe datoteke ne prepišite.
 
-Identifikator in ime datoteke sta `NNN-MOD-naziv` in `NNN-MOD-naziv.md`. Za dejanske gradnike uporabljajte številke `001–899`, za primere izključno `900–999`. Številko izberite prosto znotraj vrste gradnika; med različnimi vrstami se lahko ponovi. Celoten identifikator mora biti enoličen.
+Identifikator sestavljata predpona `M` in številka; opcijsko sledi kratek naziv z eno ali dvema besedama, ločen z vezajem: `MNNN` ali `MNNN-naziv`. Ime datoteke je identifikator s končnico `.md`, na primer `M001.md` ali `M001-digitalna-komunikacija.md`. Za dejanske gradnike uporabljajte številke `001–899`, za primere izključno `900–999`. Številko izberite prosto znotraj vrste gradnika; med različnimi vrstami se lahko ponovi. Številka mora biti enolična znotraj vrste gradnika tudi pri različnih kratkih nazivih.
 
-Del `naziv` pišite z malimi črkami brez šumnikov in s presledki, zamenjanimi z vezaji. Pri primerih je obvezna izjema velika predpona `PRIMER-` pred tem delom; tudi prikazani naziv se začne s `PRIMER-`.
+Kratek naziv pišite z malimi črkami brez šumnikov in s presledki, zamenjanimi z vezaji. Pri primerih se prikazani polni naziv začne s `PRIMER-`; ta oznaka ni del identifikatorja.
 
 Na začetek vsakega primera dodajte opozorilo:
 
@@ -16,7 +16,7 @@ Preverite skladnost ID z imenom datoteke, zaporedje učnih enot, veljavnost pred
 
 ## ID modula
 
-Vnesite enoličen identifikator v obliki `NNN-MOD-naziv`.
+Vnesite enoličen identifikator v obliki `MNNN` ali `MNNN-naziv`; kratek naziv z eno ali dvema besedama je neobvezen.
 
 ## Naziv modula
 
@@ -32,12 +32,12 @@ Vnesite ključne besede, namenjene lažjemu iskanju modula.
 
 ## Seznam učnih enot
 
-V urejenem seznamu navedite vsaj eno obstoječo učno enoto kot relativno povezavo v obliki `../UE/NNN-UE-naziv.md`; besedilo povezave naj bo »identifikator – naziv«.
+V urejenem seznamu navedite vsaj eno obstoječo učno enoto kot relativno povezavo v obliki `../UE/UINNN.md` ali `../UE/UINNN-naziv.md`; besedilo povezave naj bo »identifikator – naziv«.
 
 Za vsako učno enoto določite tudi **predpogoje za vključitev v učno enoto**:
 
 - **Brez predpogojev:** vpišite `brez`.
-- **S predpogoji:** navedite enega ali več identifikatorjev učnih enot `NNN-UE-naziv`, ki jih mora udeleženec uspešno zaključiti pred vključitvijo v obravnavano učno enoto.
+- **S predpogoji:** navedite enega ali več identifikatorjev učnih enot `UINNN` ali `UINNN-naziv`, ki jih mora udeleženec uspešno zaključiti pred vključitvijo v obravnavano učno enoto. Uporabite celoten identifikator obstoječe enote.
 
 Predpogoji so neobvezni.
 
@@ -54,13 +54,13 @@ Upoštevajte naslednja pravila:
 
 ### Primer zapisa
 
-1. [900-UE-PRIMER-osnove-e-poste – PRIMER-Osnove e-pošte](../UE/900-UE-PRIMER-osnove-e-poste.md)
+1. [UI900-e-posta – PRIMER-Osnove e-pošte](../UE/UI900-e-posta.md)
    - **Predpogoji:** brez
 
-2. [901-UE-PRIMER-varna-raba-spleta – PRIMER-Varna raba spleta](../UE/901-UE-PRIMER-varna-raba-spleta.md)
-   - **Predpogoji:** `900-UE-PRIMER-osnove-e-poste`
+2. [UI901-spletna-varnost – PRIMER-Varna raba spleta](../UE/UI901-spletna-varnost.md)
+   - **Predpogoji:** `UI900-e-posta`
 
-3. [902-UE-PRIMER-uporaba-spletnih-sestankov – PRIMER-Uporaba spletnih sestankov](../UE/902-UE-PRIMER-uporaba-spletnih-sestankov.md)
-   - **Predpogoji:** `900-UE-PRIMER-osnove-e-poste`, `901-UE-PRIMER-varna-raba-spleta`
+3. [UI902-spletni-sestanki – PRIMER-Uporaba spletnih sestankov](../UE/UI902-spletni-sestanki.md)
+   - **Predpogoji:** `UI900-e-posta`, `UI901-spletna-varnost`
 
 Pri ustvarjanju dejanskega modula primer zamenjajte s povezavami na izbrane učne enote in njihovimi predpogoji.
