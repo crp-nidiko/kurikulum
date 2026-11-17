@@ -33,8 +33,8 @@ Odrasli začetniki z osnovnim znanjem upravljanja naprave in spletnega brskalnik
 
 ## Seznam modulov
 
-1. [900-MOD-PRIMER-digitalna-komunikacija – PRIMER-Digitalna komunikacija](../MODULI/900-MOD-PRIMER-digitalna-komunikacija.md)
+1. [Digitalna komunikacija](../MODULI/900-MOD-PRIMER-digitalna-komunikacija.md)
    - **Predpogoj:** brez
 
-2. [901-MOD-PRIMER-varna-komunikacija – PRIMER-Varna komunikacija](../MODULI/901-MOD-PRIMER-varna-komunikacija.md)
+2. [Varna komunikacija](../MODULI/901-MOD-PRIMER-varna-komunikacija.md)
    - **Predpogoj:** `900-MOD-PRIMER-digitalna-komunikacija`
