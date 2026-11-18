@@ -1,4 +1,4 @@
-# Sodelovalno delo in skupna raba vsebin [DRAFT]
+# Sodelovalno delo in skupna raba vsebin
 
 ## ID modula
 
