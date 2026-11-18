@@ -4,7 +4,8 @@ V okviru raziskovalnega projekta NIDiKo nastaja prilagodljivi kurikulum neformal
 
 ## Struktura kurikuluma
 
-**Učna pot → Gradnik (Modul → Učna enota) ali Učna enota**
+**[Učna pot](UCNE_POTI.md) → Gradnik ([Modul](MODULI.md) → [Učna enota](UCNE_ENOTE.md)) ali [Učna enota](UCNE_ENOTE.md)**
+
 
 Učne enote sestavljajo module, moduli pa učne poti. Ista učna enota lahko nastopa v več modulih in isti modul v več učnih poteh; vsak gradnik ima eno izvorno datoteko, drugi se nanjo sklicujejo s povezavo. Izjemoma lahko v učni poti nastopa tudi posamezna učna enota.
 
