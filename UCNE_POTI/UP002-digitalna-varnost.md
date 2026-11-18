@@ -34,7 +34,7 @@ digitalna pismenost, spletna varnost, družbena omrežja, digitalna identiteta, 
    - **Predpogoj:** brez
 
 4. [M15-spletna-varnost](../MODULI/M15-spletna-varnost.md) – Spletne grožnje, prevare in digitalna zasebnost
-   - **Predpogoj:** brez
+   - **Predpogoj:** `UE38-varnost-osnove`
 
 5. [UE44-digitalni-stres](../UE/UE44-digitalni-stres.md) – Digitalna blaginja, ergonomija in obvladovanje digitalnega stresa
    - **Predpogoj:** brez
@@ -43,4 +43,4 @@ digitalna pismenost, spletna varnost, družbena omrežja, digitalna identiteta, 
    - **Predpogoj:** brez
 
 7. [UE47-asistenti-ui](../UE/UE47-asistenti-ui.md) – Praktična uporaba asistentov umetne inteligence v vsakdanjem delu
-   - **Predpogoj:** brez
+   - **Predpogoj:** `MUE46-uvod-ui`

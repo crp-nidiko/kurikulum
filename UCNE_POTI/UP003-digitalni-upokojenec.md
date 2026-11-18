@@ -31,7 +31,7 @@ digitalna pismenost, pametni telefon, mobilne aplikacije, digitalne javne storit
    - **Predpogoj:** brez
 
 3. [M15-spletna-varnost](../MODULI/M15-spletna-varnost.md) – Spletne grožnje, prevare in digitalna zasebnost
-   - **Predpogoj:** brez
+   - **Predpogoj:** `UE38-varnost-osnove`
 
 4. [UE9-javne-storitve](../UE/UE9-javne-storitve.md) – Uporaba digitalnih javnih storitev
    - **Predpogoj:** brez
@@ -40,4 +40,4 @@ digitalna pismenost, pametni telefon, mobilne aplikacije, digitalne javne storit
    - **Predpogoj:** brez
 
 6. [UE47-asistenti-ui](../UE/UE47-asistenti-ui.md) – Praktična uporaba asistentov umetne inteligence v vsakdanjem delu
-   - **Predpogoj:** brez
+   - **Predpogoj:** `UE46-uvod-ui`

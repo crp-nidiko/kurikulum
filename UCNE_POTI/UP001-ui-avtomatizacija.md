@@ -28,10 +28,10 @@ umetna inteligenca, generativna UI, asistenti UI, oblikovanje pozivov, avtomatiz
    - **Predpogoj:** brez
 
 2. [M18-pozivi-ui](../MODULI/M18-pozivi-ui.md) – Oblikovanje pozivov in varno delo z orodji UI
-   - **Predpogoj:** brez
+   - **Predpogoj:** `M17-uvod-ui`
 
 3. [UE52-izbira-orodij](../UE/UE52-izbira-orodij.md) – Sistematična izbira ustreznih digitalnih orodij za delovne izzive
    - **Predpogoj:** brez
 
 4. [M20-avtomatizacija](../MODULI/M20-avtomatizacija.md) – Avtomatizacija opravil brez kodiranja
-   - **Predpogoj:** brez
+   - **Predpogoj:** `M18-pozivi-ui`,`UE52-izbira-orodij`
