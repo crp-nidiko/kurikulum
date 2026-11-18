@@ -66,12 +66,3 @@ Katalog vsebuje 24 modulov v osmih vsebinskih sklopih.
 | --- | --- | --- |
 | M23-domenski-sistemi | [Domenski informacijski sistemi in orodja](MODULI/M23-domenski-sistemi.md) | 4 |
 | M24-infrastruktura | [Sodobna digitalna infrastruktura: oblak, sistemi in omrežja](MODULI/M24-infrastruktura.md) | 3 |
-
-## Primeri
-
-**Spodnja primera sta namenjena ponazoritvi strukture. Nista del uradnega kurikuluma NIDiKo.**
-
-| ID | Modul | Število UE |
-| --- | --- | --- |
-| M900-digitalna-komunikacija | [PRIMER-Digitalna komunikacija](MODULI/M900-digitalna-komunikacija.md) | 2 |
-| M901-varna-komunikacija | [PRIMER-Varna komunikacija](MODULI/M901-varna-komunikacija.md) | 2 |

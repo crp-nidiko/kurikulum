@@ -70,12 +70,3 @@
 | [UE65-oblak-ponudniki](UE/UE65-oblak-ponudniki.md) | Oblačne storitve in izbira ponudnika [DRAFT] | [Sodobna digitalna infrastruktura: oblak, sistemi in omrežja](MODULI/M24-infrastruktura.md) |
 | [UE66-upravljanje-licenc](UE/UE66-upravljanje-licenc.md) | Upravljanje uporabnikov, naprav in licenc v organizaciji [DRAFT] | [Sodobna digitalna infrastruktura: oblak, sistemi in omrežja](MODULI/M24-infrastruktura.md) |
 
-## Primeri
-
-**Spodnji primeri so namenjeni ponazoritvi strukture. Niso del uradnega kurikuluma NIDiKo.**
-
-| ID | Učna enota | Modul |
-| --- | --- | --- |
-| [UI900-e-posta](UE/UI900-e-posta.md) | PRIMER-Osnove e-pošte | [PRIMER-Digitalna komunikacija](MODULI/M900-digitalna-komunikacija.md)<br>[PRIMER-Varna komunikacija](MODULI/M901-varna-komunikacija.md) |
-| [UI901-spletna-varnost](UE/UI901-spletna-varnost.md) | PRIMER-Varna raba spleta | [PRIMER-Varna komunikacija](MODULI/M901-varna-komunikacija.md) |
-| [UI902-spletni-sestanki](UE/UI902-spletni-sestanki.md) | PRIMER-Uporaba spletnih sestankov | [PRIMER-Digitalna komunikacija](MODULI/M900-digitalna-komunikacija.md) |

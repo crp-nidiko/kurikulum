@@ -1,10 +1,5 @@
 # Učne poti
 
-Katalog učnih poti je trenutno prazen.
-
-
-## Primeri
-
-**PRIMER – namenjen ponazoritvi čne poti. Ni del uradnega kurikuluma NIDiKo.** 
-
-- [Varno digitalno sodelovanje](UCNE_POTI/UP900-varno-sodelovanje.md)
+- [UP001-ui-avtomatizacija](UCNE_POTI/UP001-ui-avtomatizacija.md) – Od osnov umetne inteligence do avtomatizacije delovnih procesov
+- [UP002-digitalna-varnost](UCNE_POTI/UP002-digitalna-varnost.md) – Varno in odgovorno v digitalnem svetu
+- [UP003-digitalni-upokojenec](UCNE_POTI/UP003-digitalni-upokojenec.md) – Digitalno samostojen in varen upokojenec
