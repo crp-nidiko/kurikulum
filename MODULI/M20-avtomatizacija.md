@@ -1,4 +1,4 @@
-# Avtomatizacija opravil brez kodiranja [DRAFT]
+# Avtomatizacija opravil brez kodiranja
 
 ## ID modula
 
@@ -10,7 +10,7 @@ Avtomatizacija opravil brez kodiranja
 
 ## Opis
 
-Modul obravnava avtomatizacijo ponavljajočih se digitalnih opravil brez potrebe po programerskem znanju. Udeleženci spoznajo povezovanje aplikacij, oblikovanje preprostih avtomatiziranih delovnih tokov in uporabo orodij brez kode. Vključuje tudi uporabo umetne inteligence in agentov UI pri avtomatizaciji opravil, ob poudarku na varnosti, presoji tveganj in nadzoru človeka. [PREGLEDATI]
+Modul obravnava avtomatizacijo ponavljajočih se digitalnih opravil brez potrebe po programerskem znanju. Udeleženci spoznajo povezovanje aplikacij, oblikovanje preprostih avtomatiziranih delovnih tokov in uporabo orodij brez kode. Vključuje tudi uporabo umetne inteligence in agentov UI pri avtomatizaciji opravil, ob poudarku na varnosti, presoji tveganj in nadzoru človeka. 
 
 ## Ključne besede
 
@@ -19,5 +19,8 @@ Avtomatizacija opravil, orodja brez kode, no-code, delovni tokovi, umetna inteli
 ## Seznam učnih enot
 
 1. [UE54-avtomatizacija-ui](../UE/UE54-avtomatizacija-ui.md) – Avtomatizacija opravil z umetno inteligenco
+   - **Predpogoji:** brez
 
 2. [UE55-avtomatizacija-nc](../UE/UE55-avtomatizacija-nc.md) – Avtomatizacija ponavljajočih se opravil z orodji brez kode
+   - **Predpogoji:** brez
+

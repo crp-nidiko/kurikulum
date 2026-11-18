@@ -1,4 +1,4 @@
-# Avtorske pravice, licence in zakonita uporaba vsebin [DRAFT]
+# Avtorske pravice, licence in zakonita uporaba vsebin
 
 ## ID modula
 
@@ -10,7 +10,7 @@ Avtorske pravice, licence in zakonita uporaba vsebin
 
 ## Opis
 
-Modul obravnava pravila zakonite in odgovorne uporabe digitalnih vsebin. Udeleženci spoznajo osnove avtorskih pravic, vrste licenc, pogoje ponovne uporabe vsebin ter pravilno navajanje virov, vključno z vsebinami, ustvarjenimi z umetno inteligenco. Modul vključuje tudi osnovna načela digitalne dostopnosti in pripravo vsebin, prilagojenih uporabnikom z različnimi potrebami. [PREGLEDATI]
+Modul obravnava pravila zakonite in odgovorne uporabe digitalnih vsebin. Udeleženci spoznajo osnove avtorskih pravic, vrste licenc, pogoje ponovne uporabe vsebin ter pravilno navajanje virov, vključno z vsebinami, ustvarjenimi z umetno inteligenco. Modul vključuje tudi osnovna načela digitalne dostopnosti in pripravo vsebin, prilagojenih uporabnikom z različnimi potrebami.
 
 ## Ključne besede
 
@@ -19,5 +19,7 @@ Avtorske pravice, digitalne licence, intelektualna lastnina, ponovna uporaba vse
 ## Seznam učnih enot
 
 1. [UE32-avtorske-pravice](../UE/UE32-avtorske-pravice.md) – Avtorske pravice, licence in zakonita ponovna uporaba digitalnih vsebin
+   - **Predpogoji:** brez
 
 2. [UE33-dostopnost](../UE/UE33-dostopnost.md) – Osnove digitalne dostopnosti
+   - **Predpogoji:** brez
