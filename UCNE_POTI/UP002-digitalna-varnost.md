@@ -43,4 +43,4 @@ digitalna pismenost, spletna varnost, družbena omrežja, digitalna identiteta, 
    - **Predpogoj:** brez
 
 7. [UE47-asistenti-ui](../UE/UE47-asistenti-ui.md) – Praktična uporaba asistentov umetne inteligence v vsakdanjem delu
-   - **Predpogoj:** `MUE46-uvod-ui`
+   - **Predpogoj:** `UE46-uvod-ui`
