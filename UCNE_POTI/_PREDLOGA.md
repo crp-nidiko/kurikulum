@@ -43,7 +43,7 @@ Za vsak gradnik določite tudi **predpogoj za vključitev**:
 - **Brez predpogoja:** vpišite `brez`.
 - **S predpogojem:** navedite celoten identifikator obstoječega gradnika (`MNNN`, `MNNN-naziv`, `UINNN` ali `UINNN-naziv`), ki ga mora udeleženec uspešno zaključiti pred vključitvijo v obravnavani gradnik.
 
-Predpogoj je neobvezen. Posamezen modul ali učna enota ima lahko največ en neposredni predpogoj.
+Predpogoj je neobvezen.
 
 **Pazite, da ne vzpostavite krožnih odvisnosti!**
 
