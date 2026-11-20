@@ -1,4 +1,4 @@
-# Osnove uporabe računalnika in operacijskih sistemov [DRAFT]
+# Osnove uporabe računalnika in operacijskih sistemov [IN PROGRESS]
 
 ## 1. ID UE
 

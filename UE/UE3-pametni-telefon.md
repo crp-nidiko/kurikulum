@@ -1,4 +1,4 @@
-# Učinkovita uporaba pametnega telefona in mobilnih aplikacij [DRAFT]
+# Učinkovita uporaba pametnega telefona in mobilnih aplikacij [IN PROGRESS]
 
 ## 1. ID UE
 

@@ -1,4 +1,4 @@
-# Napredna uporaba digitalnih naprav [DRAFT]
+# Napredna uporaba digitalnih naprav [IN PROGRESS]
 
 ## 1. ID UE
 
