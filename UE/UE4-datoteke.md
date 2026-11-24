@@ -1,4 +1,4 @@
-# Upravljanje datotek, map ter lokalno in oblačno shranjevanje [DRAFT]
+# Upravljanje datotek, map ter lokalno in oblačno shranjevanje [IN PROGRESS]
 
 ## 1. ID UE
 
