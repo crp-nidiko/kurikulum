@@ -1,4 +1,4 @@
-# Osnove programiranja in algoritmičnega razmišljanja [IN PROGRESS]
+# Osnove programiranja in algoritmičnega razmišljanja [DONE]
 
 ## 1. ID UE
 
