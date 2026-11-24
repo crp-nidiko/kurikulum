@@ -1,4 +1,4 @@
-# Razumevanje delovanja programske kode in spletnih aplikacij [DRAFT]
+# Razumevanje delovanja programske kode in spletnih aplikacij [IN PROGRESS]
 
 ## 1. ID UE
 
