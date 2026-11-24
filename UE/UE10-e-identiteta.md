@@ -1,4 +1,4 @@
-# Digitalno poslovanje, e-identifikacija in elektronski podpis [IN PROGRESS]
+# Digitalno poslovanje, e-identifikacija in elektronski podpis [DONE]
 
 ## 1. ID UE
 
