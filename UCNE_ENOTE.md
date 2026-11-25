@@ -3,8 +3,8 @@
 
 | ID | Učna enota | Modul |
 | --- | --- | --- |
-| [UE1-racunalnik](UE/UE1-racunalnik.md) | Osnove uporabe računalnika in operacijskih sistemov [IN PROGRESS] | [Uporaba digitalnih naprav in sistemov ter upravljanje datotek](MODULI/M1-naprave.md) |
-| [UE2-napredne-naprave](UE/UE2-napredne-naprave.md) | Napredna uporaba digitalnih naprav [IN PROGRESS] | [Uporaba digitalnih naprav in sistemov ter upravljanje datotek](MODULI/M1-naprave.md) |
+| [UE1-racunalnik](UE/UE1-racunalnik.md) | Osnove uporabe računalnika in operacijskih sistemov | [Uporaba digitalnih naprav in sistemov ter upravljanje datotek](MODULI/M1-naprave.md) |
+| [UE2-napredne-naprave](UE/UE2-napredne-naprave.md) | Napredna uporaba digitalnih naprav | [Uporaba digitalnih naprav in sistemov ter upravljanje datotek](MODULI/M1-naprave.md) |
 | [UE3-pametni-telefon](UE/UE3-pametni-telefon.md) | Učinkovita uporaba pametnega telefona in mobilnih aplikacij [IN PROGRESS] | [Uporaba digitalnih naprav in sistemov ter upravljanje datotek](MODULI/M1-naprave.md) |
 | [UE4-datoteke](UE/UE4-datoteke.md) | Upravljanje datotek, map ter lokalno in oblačno shranjevanje [DRAFT] | [Uporaba digitalnih naprav in sistemov ter upravljanje datotek](MODULI/M1-naprave.md) |
 | [UE5-spletno-iskanje](UE/UE5-spletno-iskanje.md) | Spletno iskanje in upravljanje digitalnih informacij [DRAFT] | [Iskanje, pridobivanje in vrednotenje informacij](MODULI/M2-informacije.md) |
