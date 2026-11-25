@@ -1,4 +1,4 @@
-# Osnove računalniških omrežij [DRAFT]
+# Osnove računalniških omrežij [IN PROGRESS]
 
 ## 1. ID UE
 
