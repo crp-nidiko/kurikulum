@@ -1,4 +1,4 @@
-# Prepoznavanje spletnih prevar, ribarjenja in socialnega inženiringa [DRAFT]
+# Prepoznavanje spletnih prevar, ribarjenja in socialnega inženiringa [IN PROGRESS]
 
 ## 1. ID UE
 

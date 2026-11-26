@@ -1,4 +1,4 @@
-# Osnove kibernetske varnosti ter zaščita naprav in gesel [DRAFT]
+# Osnove kibernetske varnosti ter zaščita naprav in gesel [IN PROGRESS]
 
 ## 1. ID UE
 

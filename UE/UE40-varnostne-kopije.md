@@ -1,4 +1,4 @@
-# Varnostne kopije in obnovitev podatkov [DRAFT]
+# Varnostne kopije in obnovitev podatkov [IN PROGRESS]
 
 ## 1. ID UE
 

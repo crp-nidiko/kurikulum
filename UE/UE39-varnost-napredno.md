@@ -1,4 +1,4 @@
-# Napredna kibernetska varnost [DRAFT]
+# Napredna kibernetska varnost [IN PROGRESS]
 
 ## 1. ID UE
 

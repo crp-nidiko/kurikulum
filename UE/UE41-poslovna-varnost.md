@@ -1,4 +1,4 @@
-# Varovanje podatkov in sistemov v poslovnem okolju [DRAFT]
+# Varovanje podatkov in sistemov v poslovnem okolju [IN PROGRESS]
 
 ## 1. ID UE
 
